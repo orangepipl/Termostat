@@ -1,1 +1,2 @@
-TERMOMETR='' 
+SENSOR='28-00000297c944' 
+TERMOMETR='/sys/bus/w1/devices/$SENSOR/w1_slave'
