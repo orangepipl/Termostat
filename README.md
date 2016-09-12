@@ -1,5 +1,5 @@
 # Termostat 
-	http://www.orangepi.pl/
+ (http://www.orangepi.pl/)
 
 ## Instalacja Modułów
 
